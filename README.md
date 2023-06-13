@@ -1,1 +1,2 @@
 # Line-Following-Robot-Using-PID-Controller
+The aim of this project is to design and build a line following robot that utilizes a PID (Proportional-Integral-Derivative) controller to accurately track and follow a line. The robot will be able to navigate autonomously along a predefined path by detecting and analysing the line using sensors and adjusting its movement based on the PID control algorithm.
